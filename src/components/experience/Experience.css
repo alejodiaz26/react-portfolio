@@ -1,0 +1,21 @@
+.experience{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.experience__position{
+    font-family: var(--roboto);
+    font-weight: 500;
+}
+
+.experience__position{
+    font-size: 1rem;
+}
+.experience__company{
+    font-size: 0.8rem;
+}
+
+.time__paragraph{
+    font-size: 0.7rem;
+}
